@@ -1,0 +1,14 @@
+[
+ {
+  "cmd": "deposit",
+  "amount": 400
+ },
+ {
+  "cmd": "deposit",
+  "amount": 100
+ },
+ {
+  "cmd": "deposit",
+  "amount": 100
+ }
+]

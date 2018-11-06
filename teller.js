@@ -28,7 +28,6 @@ switch (command) {
     client.end({cmd: 'withdraw', amount: amount})
     break
 
-  case 'help':
   default:
     console.log('node teller.js [CMD]')
 }
