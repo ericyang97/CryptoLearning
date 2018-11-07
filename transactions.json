@@ -2,36 +2,41 @@
  {
   "value": {
    "cmd": "deposit",
-   "amount": 100
+   "amount": 1000
   },
-  "hash": "2c178aa030633cf113b357dcbe68de8a597edcbc30d6799216753163676fc72b"
+  "hash": "1d8c5cdf4e4ba03a91fe92d020834d94c72a26336f724ea6f886d3746b01f47a",
+  "signature": "f44b7418ecd8ca437375fe588917b6aba4e2e24229e41896d8c8e3b1565221d05453aed472abac005a5ec0183228c467b32a06a3c4c86ebc360e878485a10b09"
  },
  {
   "value": {
    "cmd": "deposit",
-   "amount": 400
+   "amount": 1000
   },
-  "hash": "7eacd17fc5a5d4b83dfd94822f96679eb1644cfa76017d902127bc01a487e6d6"
+  "hash": "c4c80b521f2582e430ee6a4aa5e2e61c4e6df2c9534655207c00ee377906445b",
+  "signature": "eb8ff4f8d339d5526ac2e395805d34d6682fd407e836160da5f0291d66dce98fd98613027d81802012e19af4bde73531e52c6e803e1315597c43e460cd8bae02"
  },
  {
   "value": {
    "cmd": "deposit",
-   "amount": 400
+   "amount": 1000
   },
-  "hash": "7f5a13f87e00b3bbd4bcdef7c77169d885877fc5fe1fb33c52159a7baac893a4"
+  "hash": "3c143ee6d6bc49417fb13ecee4f505138b7ad3d8addc9ec0480010d764ac58bc",
+  "signature": "e549353f380bcb8557173d2b953ff40c25d44edbf723ed9734c374efba19f0804d8b8ca0906cecf3d963542285aa2832ce6b0dc6bb955f91daa9d31f09cf0507"
  },
  {
   "value": {
    "cmd": "deposit",
-   "amount": 1100
+   "amount": 1000
   },
-  "hash": "f6c8306c723d3304afc6865b00dddae0e4158ae38cf0be5dc582f0f41bff3ca1"
+  "hash": "7c236542df864d9b57b97aac2c46e5e141c65e122f3df90beb55df372d55b866",
+  "signature": "a3b0bab5bb6c5292af13c993413198c746ad81c9a4b0b9834749ee97bbe9777263fb9b347c3ab38c42735cc0da9927803f8278d84232ee746d741881cd250c0e"
  },
  {
   "value": {
    "cmd": "withdraw",
-   "amount": -1000
+   "amount": -3000
   },
-  "hash": "abd5f2d8ec93840856bd7141e673e18df223d7647a7f7d0a9808aec861f30a15"
+  "hash": "9ac3f6a54c6d275729d12ed4c7c23c192b03ebf601b1a124be2e7aeebe71c707",
+  "signature": "34452eb5c6b182307e20e925e03365129fd89f5e43e2bab470da8ebe5675a83cbd2f2fea33676f7b717bbce60eb26f209ff62ab402e35a90a477c660b1dea30d"
  }
 ]
